@@ -1,6 +1,6 @@
 ## Live Demo Link
 
-https://tooltip-github-io.vercel.app/
+https://paly-with-tooltip.vercel.app/
 
 #Tooltip
 
